@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file:///Users/soob/Desktop/test/src/pages/index.tsx"],"sourcesContent":["const index = () => {\n  return (\n    <div>\n      <button>click</button>\n    </div>\n  );\n};\n\nexport default index;\n"],"names":[],"mappings":";;;;;AAAA,MAAM,QAAQ;IACZ,qBACE,qKAAC;kBACC,cAAA,qKAAC;sBAAO;;;;;;;;;;;AAGd;uCAEe","debugId":null}}]
+}
